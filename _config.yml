@@ -1,0 +1,50 @@
+# Site/SEO settings
+email: akshayhari04@gmail.com
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
+title: Akshay's Blog
+description: Hey, Welcome to my Personal Blog
+url: ""
+baseurl: ""
+twitter_username: 
+default_img: 
+
+# Profile settings
+name: Akshay Hari
+profile_img: https://avatars3.githubusercontent.com/u/53221628?s=460&v=4
+profile: Android Developer and Open-Source enthusiast.
+social:
+  github: https://github.com/tbagz104
+  email: akshayhari04@gmail.com
+  facebook:
+  flickr: 
+  instagram: https://www.instagram.com/akshayhari4
+  linkedin: 
+  pinterest:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - octopress-autoprefixer
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - _screenshots
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page-:num"
+
+# Sass
+sass:
+  style: compressed
