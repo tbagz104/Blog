@@ -8,7 +8,7 @@ description: Build your first android app
 image: https://i.imgur.com/QjTpTeo.jpg
 image-sm: https://i.imgur.com/QjTpTeo.jpg
 ---
-Ever wondered about making your own Android app?Here's your chance to do  so. In this article,you will learn how to create a Hello World app using Kotlin.
+Ever wondered about making your own Android app?Here's your chance to do  so. In this article,you will learn how to create a Hello World app using Kotlin.<br>
 
 <h3> Why Kotlin?</h3>
 Kotlin is a new programming language developed by JetBrains that runs on Java Virtual Machine (JVM). Google announced Kotlin as its official programming language for Android app development.<br>
@@ -161,7 +161,7 @@ Your MainActivity.kt should now look something like this:
 <h3>Test Your App</h3>
 
 <figure>
-  <img src="https://i.imgur.com/lMhNjlq.gif" align="middle">
+  <img src="https://i.imgur.com/0C9ZwH3.gif" align="middle">
   <figcaption>"Click on the button to change the text to Hello Android"</figcaption>
 </figure>
 
