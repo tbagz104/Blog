@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello Kotlin"
-date: 2016-02-19
+date: 2019-11-10
 categories:
   - Android
 description: Build your first android app
@@ -158,10 +158,10 @@ Your MainActivity.kt should now look something like this:
 
 </figure>
 
-<br><h3>Test Your App</h3>
+<h3>Test Your App</h3>
 
 <figure>
-  <img src="https://i.imgur.com/0C9ZwH3.gif" align="middle">
+  <img src="https://i.imgur.com/lMhNjlq.gif" align="middle">
   <figcaption>"Click on the button to change the text to Hello Android"</figcaption>
 </figure>
 
