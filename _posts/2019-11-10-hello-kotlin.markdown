@@ -161,8 +161,8 @@ Your MainActivity.kt should now look something like this:
 <br><h3>Test Your App</h3>
 
 <figure>
-  <img src="https://i.imgur.com/TO2kZCp.gif" align="middle" style="width:450px;height:800px;>
-  <figcaption>Click on the button to change the text to "Hello Android".</figcaption>
+  <img src="https://i.imgur.com/0C9ZwH3.gif" align="middle">
+  <figcaption>"Click on the button to change the text to Hello Android"</figcaption>
 </figure>
 
 If you've done everything right then your app should work fine.This is a very simple example of how Kotlin can make your life much easier when building Android apps.This is much cleaner with much less boilerplate code.
